@@ -38,19 +38,6 @@ Ce projet en langage C propose une application de gestion de réservation hôtel
 ---
 ![Captures d'écran de l'application]
 
-![image](https://github.com/MohammedEttalbi/gestion-des-r-servations-h-teli-res/assets/127549207/f72f4e5c-f080-4e8e-b2eb-7a7bd6d62f1c)
-
-
-![image](https://github.com/MohammedEttalbi/gestion-des-r-servations-h-teli-res/assets/127549207/edafb96f-dce1-41fd-81b8-67be579f5563)
-
-
-![image](https://github.com/MohammedEttalbi/gestion-des-r-servations-h-teli-res/assets/127549207/935c9a57-b6ce-4f2d-ad31-5ef234572169)
-
-
-![image](https://github.com/MohammedEttalbi/gestion-des-r-servations-h-teli-res/assets/127549207/5c9a1c49-f835-4c9d-ab2d-77ca5890e925)
-
-
-![image](https://github.com/MohammedEttalbi/gestion-des-r-servations-h-teli-res/assets/127549207/78ef213d-62eb-4bfb-b095-259cdb055c3d)
 
 
 ![image](https://github.com/MohammedEttalbi/gestion-des-r-servations-h-teli-res/assets/127549207/7358cc18-5bd5-481a-91ce-358f54c6d2d8)
