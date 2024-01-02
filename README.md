@@ -39,8 +39,35 @@ Ce projet en langage C propose une application de gestion de réservation hôtel
 ![Captures d'écran de l'application]
 
 
+![image](https://github.com/MohammedEttalbi/Gestion-Des-Reservations-Hotelieres/assets/127549207/3ccd3e92-aaa3-4f16-8e3a-31a48ee7481a)
 
-![image](https://github.com/MohammedEttalbi/gestion-des-r-servations-h-teli-res/assets/127549207/7358cc18-5bd5-481a-91ce-358f54c6d2d8)
+## ________________________________________________________________________________________________________________________________________
+
+![image](https://github.com/MohammedEttalbi/Gestion-Des-Reservations-Hotelieres/assets/127549207/a577e342-1834-4483-bc88-4b37c0b36722)
+
+## ________________________________________________________________________________________________________________________________________
+
+
+![image](https://github.com/MohammedEttalbi/Gestion-Des-Reservations-Hotelieres/assets/127549207/87999958-9b69-4b5d-ba34-b60e6132f82e)
+
+
+## ________________________________________________________________________________________________________________________________________
+
+
+![image](https://github.com/MohammedEttalbi/Gestion-Des-Reservations-Hotelieres/assets/127549207/11400245-d231-4857-a98e-1335dc71dac0)
+
+
+## ________________________________________________________________________________________________________________________________________
+
+
+![image](https://github.com/MohammedEttalbi/Gestion-Des-Reservations-Hotelieres/assets/127549207/7ac02edf-8b8d-430a-9410-20fbb8f53200)
+
+
+## ________________________________________________________________________________________________________________________________________
+
+
+![image](https://github.com/MohammedEttalbi/Gestion-Des-Reservations-Hotelieres/assets/127549207/18cb004e-33d5-4e11-ae9c-7d9acc1268fc)
+
 
 
 
