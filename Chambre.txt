@@ -1,0 +1,17 @@
+15 ;rtyr ;1500.000000  
+101 ;simple ;120.000000  
+102 ;Double ;1800.000000  
+103 ;Suite ;1600.000000  
+104 ;Standard ;1600.000000  
+105 ;Luxe ;190.000000  
+106 ;vue_sur_mer ;290.000000  
+107 ;Familiale ;300.000000  
+108 ;Exécutive ;1660.000000  
+109 ;Avec_balcon ;190.000000  
+110 ;Communicante ;180.000000  
+111 ;Avec_jacuzzi ;900.000000  
+112 ;Studio ;1000.000000  
+113 ;Thème ;200.000000  
+114 ;Communicante ;500.000000  
+115 ;Avec_kitchenette ;600.000000  
+116 ;hj ;400.000000  

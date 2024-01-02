@@ -1,0 +1,103 @@
+101 ;simple ;75
+102 ;Double ;120
+103 ;Suite ;150
+104 ;Standard ;90
+105 ;Luxe ;3500
+106 ;vue_sur_mer ;2000
+107 ;Familiale ;250
+108 ;Exécutive ;180
+109 ;Avec_balcon ;800
+110 ;Communicante ;1800
+111 ;Avec_jacuzzi ;100
+112 ;Studio ;500
+113 ;Thème ;1200
+114 ;Communicante ;80
+115 ;Avec_kitchenette ;1000
+
+
+//////////////////////////////////////////////////////////
+
+IDa56Bt ;Sophie ;Dubois ;BB78901 ;+1555-123-45
+Hc3dR8e	;Alexandre ;Martin ;AB12345 ;+44202345678
+Yt2fGhP ;Emma ;Blanchard ;CD67890 ;+33698765432
+Kj9lMnD ;Maxime ;Lefebvre ;EF45678 ;+49301234567
+Qw4xTyZ ;Camille ;Dupont ;GH98765 ;+6128765432
+Vb7nXyC ;Hugo ;Leroy ;IJ23456 ;+39061234567
+Fg5hJkL ;Léa ;Renault ;KL78901 ;+81312345678
+Rt6mNvS ;Thomas ;Moreau ;MN56789 ;+86101234567
+Bv1cXzA ;Manon ;Girard ;OP01234 ;+52512345678
+Pq2wErD ;Lucas ;Petit ;QR78901 ;+7495123-45
+Lm3nGsF ;Chloé ;Rousseau ;ST34567 ;+1555-987-65
+Xz4cVbG ;Nicolas ;Laurent ;UV89012 ;+4420987654
+Ui5oPlK ;Laura ;Simon ;WX45678 ;+33612345678
+Jk8mNhB ;Mathieu ;Garcia ;YZ90123 ;+49098765432
+Zx9vCbV ;Sarah ;Dubois ;AA23456 ;+612234 5678
+
+/////////////////////////////////////////////////////////
+
+IDa56Bt ;17 ;6 ;2023 ;17 ;6 ;2023 ;22 ;6 ;2023 ;5 ;90 ;IDa56Bt ;102
+IDa576Bt ;17 ;6 ;2023 ;19 ;6 ;2023 ;22 ;6 ;2023 ;3 ;90 ;Qw4xTyZ ;103
+IDa536Bt ;17 ;6 ;2023 ;20 ;6 ;2023 ;25 ;6 ;2023 ;5 ;90 ;Jk8mNhB ;102
+IDa5996Bt ;17 ;6 ;2023 ;17 ;7 ;2023 ;22 ;7 ;2023 ;5 ;90 ;Rt6mNvS ;101
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
